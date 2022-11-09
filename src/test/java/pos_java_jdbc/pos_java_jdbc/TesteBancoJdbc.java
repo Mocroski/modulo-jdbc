@@ -15,7 +15,6 @@ public class TesteBancoJdbc {
 		Userposjava userposjava = new Userposjava();
 		
 		
-		userposjava.setId(6L);
 		userposjava.setNome("teste 2");
 		userposjava.setEmail("teste2@gmail.com");
 		
